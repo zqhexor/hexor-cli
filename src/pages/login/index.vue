@@ -86,7 +86,7 @@ getCapture();
 const formRef = ref(null);
 const loadingBar = useLoadingBar();
 const message = useMessage();
-const login = async () => {
+const login = async() => {
   await formRef.value.validate();
   loadingBar.start();
   setTimeout(() => {

@@ -24,7 +24,7 @@ module.exports = {
   rules: {
     quotes: ['error', 'single'],
     semi: ['error', 'always'],
-    'space-before-function-paren': ['off', 'never'],
+    'space-before-function-paren': ['error', 'never'],
     'vue/multi-word-component-names': 'off',
   },
 };

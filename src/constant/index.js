@@ -1,8 +1,8 @@
-import ImgPhone from '@/assets/img/phone.jpg';
-import ImgFlow from '@/assets/img/flow.jpg';
-import ImgMessage from '@/assets/img/message.jpg';
-import ImgOil from '@/assets/img/oil.jpg';
-import ImgAccount from '@/assets/img/account.jpg';
+import ImgPic1 from '@/assets/img/pic1.jpg';
+import ImgPic2 from '@/assets/img/pic2.jpg';
+import ImgPic3 from '@/assets/img/pic3.png';
+import ImgPic4 from '@/assets/img/pic4.png';
+import ImgPic5 from '@/assets/img/pic5.jpg';
 
 /**
  * 服务内容
@@ -10,38 +10,38 @@ import ImgAccount from '@/assets/img/account.jpg';
 export const SERVICE_CONTENT = [
   {
     value: 'phone',
-    label: '话费充值',
+    label: '业务1',
     path: '/service?tab=1',
     icon: 'phone',
-    cover: ImgPhone,
+    cover: ImgPic1,
   },
   {
     value: 'flow',
-    label: '流量充值',
+    label: '业务2',
     path: '/service?tab=2',
     icon: 'flow',
-    cover: ImgFlow,
+    cover: ImgPic2,
   },
   {
     value: 'message',
-    label: '短信产品',
+    label: '业务3',
     path: '/service?tab=3',
     icon: 'message',
-    cover: ImgMessage,
+    cover: ImgPic3,
   },
   {
     value: 'oil',
-    label: '油卡充值',
+    label: '业务4',
     path: '/service?tab=4',
     icon: 'oil',
-    cover: ImgOil,
+    cover: ImgPic4,
   },
   {
     value: 'account',
-    label: '微信公众号',
+    label: '业务5',
     path: '/service?tab=5',
     icon: 'account',
-    cover: ImgAccount,
+    cover: ImgPic5,
   },
 ];
 

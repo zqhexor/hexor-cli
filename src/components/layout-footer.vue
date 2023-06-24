@@ -32,14 +32,14 @@
     <small
       class="flex items-center justify-center bg-[#272A39] py-6 text-center text-sm text-[#999]"
     >
-      Copyright © 2020 南京格瓦克信息科技有限公司 All rights reserved. &nbsp;
+      Copyright © 2020 XXXXXXX信息科技有限公司 All rights reserved. &nbsp;
       <a
         href="https://beian.miit.gov.cn/"
         title="备案号"
         target="_blank"
         class="hover:text-primary"
       >
-        苏ICP备19050911号-1</a
+        苏ICP备XXXXXXXXX号-1</a
       >
     </small>
   </footer>

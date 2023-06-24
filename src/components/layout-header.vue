@@ -2,7 +2,7 @@
   <header class="header sticky left-0 top-0 z-[2] h-[80PX] w-full bg-white">
     <section class="w-max-pc mx-auto flex h-full items-center">
       <RouterLink to="/">
-        <h1 class="h-full w-36 text-2xl font-bold leading-[80PX]">爱尔贝</h1>
+        <h1 class="h-full w-36 text-2xl font-bold leading-[80PX]">XXXX</h1>
       </RouterLink>
 
       <div class="flex-auto"></div>

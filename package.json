@@ -13,7 +13,6 @@
   },
   "dependencies": {
     "swiper": "^9.4.1",
-    "verification-code": "^1.0.0",
     "vue": "^3.2.25",
     "vue-router": "^4.2.2"
   },

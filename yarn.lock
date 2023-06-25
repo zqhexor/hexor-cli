@@ -3725,11 +3725,6 @@ vdirs@^0.1.4, vdirs@^0.1.8:
   dependencies:
     evtd "^0.2.2"
 
-verification-code@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/verification-code/-/verification-code-1.0.0.tgz#e088fbac3153535b1d15c36eb38a13adb6b5dc0b"
-  integrity sha512-1z4IGY4Pt9Mnn/VfhBD2Ue8m0H1zxDBs8irEbY7RGxapqhDYjResp6zyKU1ePCx6duQK+Hn+bpQgZ1zxmQg5+w==
-
 vite-plugin-pages@^0.31.0:
   version "0.31.0"
   resolved "https://registry.yarnpkg.com/vite-plugin-pages/-/vite-plugin-pages-0.31.0.tgz#9cbd03b75760b36feda5e871c6f68fb00c4c66b7"

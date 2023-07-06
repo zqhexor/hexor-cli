@@ -12,8 +12,8 @@ module.exports = {
     withDefaults: 'readonly',
   },
   extends: [
-    'eslint:recommended',
     'plugin:vue/vue3-essential',
+    'eslint:recommended',
     'prettier',
     './.eslintrc-auto-import.json',
   ],
